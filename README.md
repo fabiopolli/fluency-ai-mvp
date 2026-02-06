@@ -1,8 +1,6 @@
 # 🎓 Fluency Academy AI Tutor - MVP
 
-
-https://github.com/user-attachments/assets/5bbae356-9f93-4748-bb25-8f74d36cd612
-
+![CaseFluency-ezgif com-speed](https://github.com/user-attachments/assets/2c6bd45f-be9f-4e5a-9886-63fb73fb8152)
 
 Este repositório apresenta um case de estudo de um tutor inteligente de alta performance. O sistema utiliza uma arquitetura robusta de **RAG (Retrieval-Augmented Generation)** para fornecer respostas precisas e contextualizadas sobre a metodologia e cronograma da escola, baseando-se em documentos oficiais.
 
