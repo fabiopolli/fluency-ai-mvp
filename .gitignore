@@ -1,0 +1,20 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+
+# Credenciais e Segredos (CRÍTICO)
+.env
+
+# Docker
+.dockerignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
